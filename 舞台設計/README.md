@@ -3,7 +3,7 @@
 本專案為 Unreal Engine 4.27 專案，使用 DMX（Art-Net）相關插件進行燈光控制與舞台場景內容製作。  
 目前專案以 Blueprint/資產為主。
 
-完整檔案：https://drive.google.com/drive/folders/12-IquzWPvdQjNdV0deGNnTJachwU9jls?usp=sharing
+完整檔案：https://drive.google.com/drive/folders/1GFt24NlaavprXDtt9SWieuvuE3dBfx2f?usp=drive_link
 
 ---
 
